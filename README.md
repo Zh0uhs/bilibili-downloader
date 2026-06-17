@@ -44,6 +44,10 @@ pyinstaller --onefile --windowed --name "BiliDownloader" bilibili_downloader.py
 - Cookie 文件存储在 `~/.bili_downloader/`，权限已自动加固
 - 下载的视频仅供个人学习与研究使用
 - 如有任何问题欢迎反馈，有什么希望我能做出来的工具也可以说，觉得软件还可以求个Star~
+
+## 📞 联系方式 / Contact
+
+- QQ: [2659196009@qq.com]
 ## 📄 开源协议
 
 MIT License
